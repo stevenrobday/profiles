@@ -1,0 +1,5 @@
+#cancelAddBtnWrap, #addProfileNameWrap, #editProfileNameWrap, #cancelEditBtnWrap,
+#descriptionWrap, #doNotCopyWrap, #addEditorWrap, #editorWrap, #saveBtnWrap, .saveBtn {
+    display: none;
+}
+
